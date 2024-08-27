@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Islami" parent="Theme.Material3.DayNight.NoActionBar" >
+        <item name="colorPrimary" type="color">@color/gold</item>
+        <item name="colorOnPrimary" type="color">@color/white</item>
+        <item name="colorPrimaryVariant" type="color">@color/gold2</item>
+        <item name="colorSecondary" type="color">@color/gold</item>
+        <item name="colorOnSecondary" type="color">@color/black</item>
+        <item name="colorSecondaryVariant" type="color">@color/gold2</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+    
+    <style name="toolbarTextStyle">
+        <item name="font">@font/koufibd</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="background">@color/Transperant</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="item_text">
+        <item name="font">@font/koufibd</item>
+        <item name="android:textColor">@color/light_black</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="backgroundColor">@color/Transperant</item>
+    </style>
+
+</resources>
