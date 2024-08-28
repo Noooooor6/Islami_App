@@ -49,7 +49,6 @@
             app:layout_constraintTop_toBottomOf="@id/devider1"
             />
     </LinearLayout>
-
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/hadeth_recycler_view"
         android:layout_width="match_parent"

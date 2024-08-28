@@ -1,4 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
     <!-- Base application theme. -->
     <style name="Theme.Islami" parent="Theme.Material3.DayNight.NoActionBar" >
         <item name="colorPrimary" type="color">@color/gold</item>
@@ -19,7 +19,7 @@
     </style>
 
     <style name="item_text">
-        <item name="font">@font/koufibd</item>
+        <item name="font">@font/duluth</item>
         <item name="android:textColor">@color/light_black</item>
         <item name="android:textSize">25sp</item>
         <item name="android:textStyle">bold</item>
